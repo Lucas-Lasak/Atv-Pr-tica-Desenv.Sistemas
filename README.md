@@ -1,1 +1,2 @@
-# Atv-Pr-tica-Desenv.Sistemas
+# Atv-Pratica-Desenv.Sistemas
+Nome: Lucas Lasak Ferro  RA: 1902547
